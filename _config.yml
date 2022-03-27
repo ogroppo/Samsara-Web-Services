@@ -12,7 +12,7 @@ minima:
     twitter: jekyllrb
     github: jekyll
     linkedin: samsara-web-services-ltd.
-theme: minima
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-feed
